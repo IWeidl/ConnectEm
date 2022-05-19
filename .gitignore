@@ -31,6 +31,6 @@
 *.out
 *.app
 /.vs/ConnectEm
-/ConnectEm/x64/Debug
-/x64/Debug
-/ConnectEm/x64/Release
+/ConnectEm/x64
+/x64
+/ConnectEm/x64
