@@ -1,0 +1,26 @@
+﻿  main.cpp
+C:\dev\Libraries and Frameworks\raylib\src\extras\raygui.h(2131,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\dev\Libraries and Frameworks\raylib\src\extras\raygui.h(2350,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\dev\Libraries and Frameworks\raylib\src\extras\raygui.h(2383,48): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\dev\Libraries and Frameworks\raylib\src\extras\raygui.h(3057,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\dev\Libraries and Frameworks\raylib\src\extras\raygui.h(3058,105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\dev\Libraries and Frameworks\raylib\src\extras\raygui.h(3059,109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\dev\Libraries and Frameworks\raylib\src\extras\raygui.h(3060,109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\dev\Libraries and Frameworks\raylib\src\extras\raygui.h(3061,109): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\dev\Libraries and Frameworks\raylib\src\extras\raygui.h(3288,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\dev\Libraries and Frameworks\raylib\src\extras\raygui.h(3309,25): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\dev\Libraries and Frameworks\raylib\src\extras\raygui.h(3321,25): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\dev\Libraries and Frameworks\raylib\src\extras\raygui.h(3361,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\dev\Libraries and Frameworks\raylib\src\extras\raygui.h(3559,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\dev\Libraries and Frameworks\raylib\src\extras\raygui.h(3609,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\dev\Projects\raylib\ConnectEm\ConnectEm\main.cpp(182,56): warning C4244: 'argument': conversion from 'float' to 'std::array<std::array<SlotState,6>,7>::size_type', possible loss of data
+C:\dev\Projects\raylib\ConnectEm\ConnectEm\main.cpp(183,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\dev\Projects\raylib\ConnectEm\ConnectEm\main.cpp(245,3): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\dev\Projects\raylib\ConnectEm\ConnectEm\main.cpp(252,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\dev\Projects\raylib\ConnectEm\ConnectEm\main.cpp(252,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\dev\Projects\raylib\ConnectEm\ConnectEm\main.cpp(192): warning C4715: 'UpdateBoard': not all control paths return a value
+  All 214 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConnectEm.vcxproj -> C:\dev\Projects\raylib\ConnectEm\x64\Release\ConnectEm.exe
